@@ -14,10 +14,11 @@
 - Power BI
 
 ## Learning Goals
-
+1. Learn how to use Git and GitHub
+2. Improve bash skills
+3. Create personal local cloud storage
 
 ## Contacts
-
 
 
 
