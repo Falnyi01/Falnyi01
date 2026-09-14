@@ -20,7 +20,7 @@ I love puzzles and problem solving. I am presently enrolled in my junior year at
 3. Create personal local cloud storage
 
 ## Let's Connect😁
-- [LinkedIn]: (https://www.linkedin.com/in/falnyi-bitrus/)
+- [LinkedIn] (https://www.linkedin.com/in/falnyi-bitrus/)
 - Email: bitrusfalnyi001@gmail.com
 
 ## Fun Facts
