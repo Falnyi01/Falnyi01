@@ -19,7 +19,8 @@
 3. Create personal local cloud storage
 
 ## Contacts
-
+- [LinkedIn] (https://www.linkedin.com/in/falnyi-bitrus/)
+- Email: bitrusfalnyi001@gmail.com
 
 
 <!--
