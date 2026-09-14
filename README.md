@@ -1,9 +1,9 @@
 # Hi, I'm Falnyi! 👋
 
-## About Me
-# I love puzzles and problem solving. I am presently enrolled in my junior year at Concordia University, Saint Paul with a major in computer science and minor in finance!
+## About Me 😄
+### I love puzzles and problem solving. I am presently enrolled in my junior year at Concordia University, Saint Paul with a major in computer science and minor in finance! 
 
-##  Technical SKills and Programing Languages
+##  Technical SKills and Programing Languages👩‍💻
 - Java
 - Phyton
 - C
@@ -13,14 +13,19 @@
 - Visio
 - Power BI
 
-## Learning Goals
+## Learning Goals📔
 1. Learn how to use Git and GitHub
 2. Improve bash skills
 3. Create personal local cloud storage
 
-## Contacts
+## Let's Connect😁
 - [LinkedIn] (https://www.linkedin.com/in/falnyi-bitrus/)
 - Email: bitrusfalnyi001@gmail.com
+
+## Fun Facts
+- I love to sing and dance 🎶💃
+- I love to cook 👩‍🍳
+
 
 
 <!--
