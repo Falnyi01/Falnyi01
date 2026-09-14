@@ -3,7 +3,7 @@
 ## About Me 😄
 ### I love puzzles and problem solving. I am presently enrolled in my junior year at Concordia University, Saint Paul with a major in computer science and minor in finance! 
 
-##  Technical SKills and Programing Languages👩‍💻
+##  Technical Skills and Programing Languages👩‍💻
 - Java
 - Phyton
 - C
@@ -19,12 +19,13 @@
 3. Create personal local cloud storage
 
 ## Let's Connect😁
-- [LinkedIn] (https://www.linkedin.com/in/falnyi-bitrus/)
+- [LinkedIn]: (https://www.linkedin.com/in/falnyi-bitrus/)
 - Email: bitrusfalnyi001@gmail.com
 
 ## Fun Facts
 - I love to sing and dance 🎶💃
-- I love to cook 👩‍🍳
+- I love to cook. I recently picked up baking! 👩‍🍳
+  
 
 
 
